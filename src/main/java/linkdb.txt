@@ -1,0 +1,6 @@
+https://webphpmyadmin.com/index.php
+Server: remotemysql.com
+Password: fJijsejA8f
+Username: zmcTVVybbF
+
+Database name: zmcTVVybbF
